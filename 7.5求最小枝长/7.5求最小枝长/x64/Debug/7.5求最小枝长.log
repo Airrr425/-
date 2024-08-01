@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\data struct\7.5求最小枝长\7.5求最小枝长\源.cpp(19,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  7.5求最小枝长.vcxproj -> F:\data struct\7.5求最小枝长\x64\Debug\7.5求最小枝长.exe

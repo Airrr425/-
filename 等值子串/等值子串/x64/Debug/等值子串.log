@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\data struct\等值子串\等值子串\源.cpp(16,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  等值子串.vcxproj -> F:\data struct\等值子串\x64\Debug\等值子串.exe

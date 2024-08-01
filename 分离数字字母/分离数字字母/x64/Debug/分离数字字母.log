@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\data struct\分离数字字母\分离数字字母\源.cpp(12,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  分离数字字母.vcxproj -> F:\data struct\分离数字字母\x64\Debug\分离数字字母.exe

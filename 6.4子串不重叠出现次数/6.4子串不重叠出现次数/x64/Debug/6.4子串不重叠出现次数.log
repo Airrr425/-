@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\data struct\6.4子串不重叠出现次数\6.4子串不重叠出现次数\源.cpp(5,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\data struct\6.4子串不重叠出现次数\6.4子串不重叠出现次数\源.cpp(6,26): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  6.4子串不重叠出现次数.vcxproj -> F:\data struct\6.4子串不重叠出现次数\x64\Debug\6.4子串不重叠出现次数.exe

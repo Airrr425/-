@@ -1,0 +1,6 @@
+﻿  源.cpp
+F:\data struct\表达式树综合题\表达式树综合题\源.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\data struct\表达式树综合题\表达式树综合题\源.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+F:\data struct\表达式树综合题\表达式树综合题\源.cpp(31,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\data struct\表达式树综合题\表达式树综合题\源.cpp(87,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  表达式树综合题.vcxproj -> F:\data struct\表达式树综合题\x64\Debug\表达式树综合题.exe

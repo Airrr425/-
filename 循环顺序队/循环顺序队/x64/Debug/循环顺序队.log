@@ -1,0 +1,5 @@
+﻿  顺序队.cpp
+  铁轨问题.cpp
+  正在生成代码...
+铁轨问题.obj : error LNK2005: main 已经在 顺序队.obj 中定义
+F:\data struct\循环顺序队\x64\Debug\循环顺序队.exe : fatal error LNK1169: 找到一个或多个多重定义的符号

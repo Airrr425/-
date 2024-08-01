@@ -1,0 +1,9 @@
+﻿  源.cpp
+F:\data struct\tsp\tsp\源.cpp(33,38): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\data struct\tsp\tsp\源.cpp(45,69): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+F:\data struct\tsp\tsp\源.cpp(80,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tsp.vcxproj -> F:\data struct\tsp\x64\Debug\tsp.exe

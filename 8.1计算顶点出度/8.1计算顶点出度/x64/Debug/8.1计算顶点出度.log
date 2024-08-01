@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\data struct\8.1计算顶点出度\8.1计算顶点出度\源.cpp(11,35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\data struct\8.1计算顶点出度\8.1计算顶点出度\源.cpp(13,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  8.1计算顶点出度.vcxproj -> F:\data struct\8.1计算顶点出度\x64\Debug\8.1计算顶点出度.exe

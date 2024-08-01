@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\data struct\9.3查找序列\9.3查找序列\源.cpp(6,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  9.3查找序列.vcxproj -> F:\data struct\9.3查找序列\x64\Debug\9.3查找序列.exe

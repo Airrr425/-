@@ -1,0 +1,37 @@
+﻿  源.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(680,47): error C2512: “Vertex::Vertex”: 没有合适的默认构造函数可用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(680,47): message : 尝试匹配参数列表“()”时
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1659): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,>(_Alloc &,_Objty *const )”的引用
+          with
+          [
+              _Alloc=std::allocator<Vertex>,
+              _Ty=Vertex,
+              _Objty=Vertex
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1660,44): message : 查看对正在编译的函数 模板 实例化“void std::_Default_allocator_traits<_Alloc>::construct<_Ty,>(_Alloc &,_Objty *const )”的引用
+          with
+          [
+              _Alloc=std::allocator<Vertex>,
+              _Ty=Vertex,
+              _Objty=Vertex
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1884): message : 查看对正在编译的函数 模板 实例化“void std::_Uninitialized_backout_al<std::allocator<Vertex>>::_Emplace_back<>(void)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\xmemory(1900,31): message : 查看对正在编译的函数 模板 实例化“void std::_Uninitialized_backout_al<std::allocator<Vertex>>::_Emplace_back<>(void)”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(1643,1): message : 查看对正在编译的函数 模板 实例化“Vertex *std::_Uninitialized_value_construct_n<std::allocator<Vertex>>(Vertex *,unsigned __int64,_Alloc &)”的引用
+          with
+          [
+              _Alloc=std::allocator<Vertex>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(1655): message : 查看对正在编译的函数 模板 实例化“void std::vector<Vertex,std::allocator<Vertex>>::_Resize<std::_Value_init_tag>(const unsigned __int64,const _Ty2 &)”的引用
+          with
+          [
+              _Ty2=std::_Value_init_tag
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(1655,16): message : 查看对正在编译的函数 模板 实例化“void std::vector<Vertex,std::allocator<Vertex>>::_Resize<std::_Value_init_tag>(const unsigned __int64,const _Ty2 &)”的引用
+          with
+          [
+              _Ty2=std::_Value_init_tag
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\vector(1653,1): message : 在编译 类 模板 成员函数“void std::vector<Vertex,std::allocator<Vertex>>::resize(const unsigned __int64)”时
+F:\data struct\无向图2\无向图2\源.cpp(19,24): message : 查看对正在编译的函数 模板 实例化“void std::vector<Vertex,std::allocator<Vertex>>::resize(const unsigned __int64)”的引用
+F:\data struct\无向图2\无向图2\源.cpp(16,20): message : 查看对正在编译的 类 模板 实例化“std::vector<Vertex,std::allocator<Vertex>>”的引用

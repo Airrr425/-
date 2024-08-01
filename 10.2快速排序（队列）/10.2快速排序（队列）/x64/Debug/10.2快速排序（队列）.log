@@ -1,0 +1,3 @@
+﻿  源.cpp
+F:\data struct\10.2快速排序（队列）\10.2快速排序（队列）\源.cpp(45,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  10.2快速排序（队列）.vcxproj -> F:\data struct\10.2快速排序（队列）\x64\Debug\10.2快速排序（队列）.exe
